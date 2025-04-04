@@ -1,3 +1,4 @@
+-- Q1 A)
 CREATE TABLE member (
     memb_no INT PRIMARY KEY,
     name VARCHAR(50) NOT NULL
